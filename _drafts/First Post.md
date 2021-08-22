@@ -24,6 +24,6 @@ page_sections:
   thumbnail: ''
 - template: embed-youtube
   block: embed-youtube
-  url: fadf
+  url: https://www.youtube.com/embed/G4pfSB9TZfE
 
 ---
