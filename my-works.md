@@ -11,6 +11,8 @@ page_sections:
     link_text: Home
   - link: my-works
     link_text: My Works
+  - link: "/about-me.html"
+    link_text: About Me
   cta:
     url: ''
     button_text: ''
