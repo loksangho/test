@@ -14,8 +14,8 @@ page_sections:
   - link: "/my-works.html"
     link_text: My Works
   cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
+    url: "/contact.html"
+    button_text: Contact
 - template: embed-youtube
   block: embed-youtube
   url: https://www.youtube.com/embed/iIUGNMAidsw
