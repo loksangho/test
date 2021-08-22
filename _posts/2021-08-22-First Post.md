@@ -21,7 +21,7 @@ page_sections:
   type: post-item
   title: Hello
   content: "<p>This is some content</p>"
-  thumbnail: ''
+  thumbnail: "/uploads/2021/08/22/screen-shot-2021-08-18-at-9-16-50-am.png"
 - template: embed-youtube
   block: embed-youtube
   url: https://www.youtube.com/embed/G4pfSB9TZfE
