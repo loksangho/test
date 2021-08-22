@@ -36,6 +36,6 @@ fields:
   - embed-vimeo
   - post-item
 pages:
-- _posts/First Post.md
+- _posts/2021-08-22-First Post.md
 - index.md
 - my-works.md

@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: First Post
-date: 2021-08-22 14:00:00 +0000
+date: 2021-08-22T14:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
