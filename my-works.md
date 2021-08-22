@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: my-works
+  - link: "/my-works.html"
     link_text: My Works
   - link: "/about-me.html"
     link_text: About Me
