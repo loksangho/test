@@ -31,6 +31,9 @@ fields:
   - signup-bar
   - simple-footer
   - 4-column-footer
+  - list-of-portfolio-items
+  - embed-youtube
+  - embed-vimeo
 pages:
 - index.md
 - my-works.md
