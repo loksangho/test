@@ -1,1 +1,20 @@
-
+<section id="list-of-portfolio-items" class="block block-list-of-portfolio-items">
+    
+    <div class="portfolio_list">
+        {% for post in site.posts | where:"is_featured", "true" %}
+            
+            {% for page_section in post.page_sections %}
+                
+            {% if page_section.type == "post-item" %}
+            <div class="thumbnail">
+                <a href="{{post.url}}">
+              <img style="width:{{section.thumbnail_width}}px; height:{{section.thumbnail_height}}px; object-fit:cover;" src="{{ page_section.thumbnail}}" />
+                    </a>
+            </div>
+            {% endif %}
+            {% endfor %}
+          
+        {% endfor %}
+          
+        </div>
+</section>
