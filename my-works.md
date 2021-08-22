@@ -14,8 +14,8 @@ page_sections:
   - link: "/about-me.html"
     link_text: About Me
   cta:
-    url: ''
-    button_text: ''
+    url: "/contact.html"
+    button_text: Contact
 - template: list-of-portfolio-items
   block: list-of-portfolio-items
   thumbnail_width: 100
