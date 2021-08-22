@@ -35,5 +35,6 @@ fields:
   - embed-youtube
   - embed-vimeo
 pages:
+- _posts/First Post.md
 - index.md
 - my-works.md
