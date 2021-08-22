@@ -9,6 +9,8 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
+  - link: my-works
+    link_text: My Works
   cta:
     url: ''
     button_text: ''
