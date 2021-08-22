@@ -16,5 +16,11 @@ page_sections:
     button_text: Contact
     url: "/contact"
   logo: ''
+- template: post-item
+  block: post-item
+  type: post-item
+  title: Hello
+  content: "<p>This is some content</p>"
+  thumbnail: ''
 
 ---
