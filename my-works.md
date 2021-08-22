@@ -5,7 +5,7 @@ date: 2021-08-22T14:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: ''
+  logo: "/uploads/2021/08/22/hex_icon-256.png"
   navigation:
   - link: "/"
     link_text: Home
