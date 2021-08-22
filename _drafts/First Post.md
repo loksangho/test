@@ -1,7 +1,7 @@
 ---
 layout: blocks
-title: ''
-date: 
+title: First Post
+date: 2021-08-22 14:00:00 +0000
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -25,5 +25,8 @@ page_sections:
 - template: embed-youtube
   block: embed-youtube
   url: https://www.youtube.com/embed/G4pfSB9TZfE
+- template: simple-footer
+  block: footer-1
+  content: ''
 
 ---
