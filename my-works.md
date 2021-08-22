@@ -1,12 +1,14 @@
 ---
 layout: blocks
 title: My Works
-date: 2021-08-22 14:00:00 +0000
+date: 2021-08-22T14:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
   logo: ''
-  navigation: []
+  navigation:
+  - link: "/"
+    link_text: Home
   cta:
     url: ''
     button_text: ''
