@@ -7,12 +7,12 @@ page_sections:
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
   navigation:
-  - link: "/about-me.html"
-    link_text: About Me
   - link: "/"
     link_text: Home
   - link: "/my-works.html"
     link_text: My Works
+  - link: "/about-me.html"
+    link_text: About Me
   cta:
     url: "/contact.html"
     button_text: Contact
