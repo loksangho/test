@@ -18,8 +18,8 @@ page_sections:
     button_text: Contact
 - template: list-of-portfolio-items
   block: list-of-portfolio-items
-  thumbnail_width: 100
-  thumbnail_height: 100
+  thumbnail_width: 600
+  thumbnail_height: 600
 - template: simple-footer
   block: footer-1
   content: ''
