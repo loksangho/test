@@ -10,6 +10,13 @@ page_sections:
   cta:
     url: ''
     button_text: ''
+- template: list-of-portfolio-items
+  block: list-of-portfolio-items
+  thumbnail_width: 100
+  thumbnail_height: 100
+- template: simple-footer
+  block: footer-1
+  content: ''
 published: false
 
 ---
