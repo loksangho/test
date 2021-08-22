@@ -22,5 +22,8 @@ page_sections:
   title: Hello
   content: "<p>This is some content</p>"
   thumbnail: ''
+- template: embed-youtube
+  block: embed-youtube
+  url: fadf
 
 ---
