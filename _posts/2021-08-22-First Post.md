@@ -15,7 +15,7 @@ page_sections:
   cta:
     button_text: Contact
     url: "/contact"
-  logo: ''
+  logo: "/uploads/2021/08/22/hex_icon-256.png"
 - template: post-item
   block: post-item
   type: post-item
