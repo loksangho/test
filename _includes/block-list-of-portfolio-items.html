@@ -8,7 +8,7 @@
             {% if page_section.type == "post-item" %}
             <div class="thumbnail">
                 <a href="{{post.url | relative_url }}">
-              <img style="width:{{section.thumbnail_width}}px; height:{{section.thumbnail_height}}px; object-fit:cover;" src="{{ page_section.thumbnail}}" />
+              <img style="width:{{section.thumbnail_width}}px; height:{{section.thumbnail_height}}px; object-fit:cover;" src="{{ page_section.thumbnail | relative_url }}" />
                     </a>
             </div>
             {% endif %}
