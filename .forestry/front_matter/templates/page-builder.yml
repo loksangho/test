@@ -34,6 +34,7 @@ fields:
   - list-of-portfolio-items
   - embed-youtube
   - embed-vimeo
+  - post-item
 pages:
 - _posts/First Post.md
 - index.md
